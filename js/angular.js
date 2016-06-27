@@ -8,15 +8,15 @@ myApp.controller("myController", function($scope){
             link: "index.html"
         },
         {
-            name: "About",
+            name: "About Me",
             link: "about.html"
         },
         {
-            name: "FAQ",
+            name: "Projects",
             link: "faq.html"
         },
         {
-            name: "Finances",
+            name: "Research",
             link: "finances.html"
         },
         {
@@ -24,7 +24,7 @@ myApp.controller("myController", function($scope){
             link: "contact.html"
         },
         {
-            name: "Vote",
+            name: "Blog",
             link: "vote.html"
         },
     ];

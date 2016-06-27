@@ -27,24 +27,24 @@ myApp.controller("myController", function($scope){
             link: "index.html"
         },
         {
-            name: "About",
+            name: "About Me",
             link: "about.html"
         },
         {
-            name: "FAQ",
-            link: "faq.html"
+            name: "Projects",
+            link: "projects.html"
         },
         {
-            name: "Finances",
-            link: "finances.html"
+            name: "Research",
+            link: "research.html"
         },
         {
             name: "Contact",
             link: "contact.html"
         },
         {
-            name: "Vote",
-            link: "vote.html"
+            name: "Blog",
+            link: "blog.html"
         },
     ];
     
