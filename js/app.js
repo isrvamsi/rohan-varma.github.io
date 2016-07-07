@@ -44,7 +44,7 @@ myApp.controller("myController", function($scope){
         },
         {
             name: "Blog",
-            link: "rohan-varma.github.io/rohan-blog"
+            link: "rohan-blog"
         },
     ];
     
