@@ -13,11 +13,11 @@ myApp.controller("myController", function($scope){
         },
         {
             name: "Projects",
-            link: "faq.html"
+            link: "projects.html"
         },
         {
             name: "Research",
-            link: "finances.html"
+            link: "research.html"
         },
         {
             name: "Contact",
@@ -25,7 +25,7 @@ myApp.controller("myController", function($scope){
         },
         {
             name: "Blog",
-            link: "vote.html"
+            link: "http://rohan-varma.github.io/rohan-blog"
         },
     ];
     
