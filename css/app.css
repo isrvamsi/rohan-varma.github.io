@@ -314,6 +314,9 @@ footer {
 }
 
 .media-imgs {
+    margin: auto;
+	height: 100px;
+    width: 500px;
 	margin-top: 2rem;
 	font-size: 0;
 }
