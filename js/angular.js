@@ -8,6 +8,10 @@ myApp.controller("myController", function($scope){
             link: "index.html"
         },
         {
+            name: "Blog",
+            link: "rohan-blog"
+        },
+        {
             name: "About Me",
             link: "about.html"
         },
@@ -22,10 +26,6 @@ myApp.controller("myController", function($scope){
         {
             name: "Contact",
             link: "contact.html"
-        },
-        {
-            name: "Blog",
-            link: "rohan-blog"
         },
     ];
     
