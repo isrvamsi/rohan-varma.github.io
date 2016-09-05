@@ -256,8 +256,8 @@ div.large-12-columns.hide {
 
 .nav-section a:hover{
 	/*background-color: #f1f0ee; */
-	color: #0080C5;
-	border-bottom: 2px solid #F8CF23;
+	color: #1e8689;
+	border-bottom: 2px solid #1e8689;
 	padding: 0.3em;
 	text-decoration: none;
 
@@ -265,7 +265,7 @@ div.large-12-columns.hide {
 
 .nav-section a.selected{
 	color: #000;
-	background-color: #f1f0ee;
+	background-color: #1e8689;
 	font-weight: bold;
 	padding: 0.7em 0.3em 0.38em 0.3em;
 }
