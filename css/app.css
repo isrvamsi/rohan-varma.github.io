@@ -3,7 +3,7 @@ c
   display: none !important;
 }
 
-@font-face {	
+@font-face {
 	font-family: GothamBold;    /*headline*/
 	src:
 	 url('fonts/Gotham-Bold.otf');
@@ -49,17 +49,17 @@ b {
 }
 
 .colorA {
-	color: #20406F;
+	color: #0ddb58;
 	border-bottom-color: #20406F;
 }
 
 .colorB {
-	color: #4D668C;
+	color: #0ddb58;
 	border-bottom-color: #4D668C;
 }
 
 .colorC {
-	color: #798DA9;
+	color: #0ddb58;
 	border-bottom-color: #798DA9;
 }
 
@@ -74,13 +74,13 @@ b {
 
 a {
 	font-family: 'GothamMedium', sans-serif;
-	color: #20406F;
+	color: #1e8689;
 }
 
 a:hover {
 	font-family: 'GothamMedium', sans-serif;
-	color: #0080C5;
-	border-bottom: 1px solid #F8CF23;
+	color: #0ddb58;
+	border-bottom: 1px solid #0ddb58;
 }
 
 p a {
@@ -88,13 +88,13 @@ p a {
 }
 
 .button {
-	background-color: #0080C5;
-    border-radius: 1000px; 
+	background-color: #21bda1;
+    border-radius: 1000px;
 }
 
 .button:hover {
 	border: 1px solid transparent;
-	background-color: #1B1D35;
+	background-color: #0ddb58;
 }
 
 
@@ -102,7 +102,7 @@ h2 {
 	font-family: 'GothamMedium', sans-serif;
 }
 
-body { 
+body {
 	font-family: 'GothamRoundedBook', Helvetica, sans-serif;
 }
 
@@ -110,42 +110,42 @@ p {
 	font-size: 16px;
 }
 
-ul#tabs { 
-	list-style-type: none; 
-	margin: 30px 0 0 0; 
-	padding: 0 0 0.3em 0; 
+ul#tabs {
+	list-style-type: none;
+	margin: 30px 0 0 0;
+	padding: 0 0 0.3em 0;
 }
 
-ul#tabs li { 
+ul#tabs li {
 	display: inline;
 }
 
-ul#tabs li a { 
-	color: #42454a; 
-	background-color: #dedbde; 
-	border: 1px solid #c9c3ba; 
-	border-bottom: none; padding: 0.3em; 
-	text-decoration: none; 
+ul#tabs li a {
+	color: #42454a;
+	background-color: #dedbde;
+	border: 1px solid #c9c3ba;
+	border-bottom: none; padding: 0.3em;
+	text-decoration: none;
 }
 
-ul#tabs li a:hover { 
+ul#tabs li a:hover {
 	background-color: #f1f0ee;
 }
 
 ul#tabs li a.selected {
-	color: #000; 
-	background-color: #f1f0ee; 
-	font-weight: bold; 
-	padding: 0.7em 0.3em 0.38em 0.3em; 
+	color: #000;
+	background-color: #f1f0ee;
+	font-weight: bold;
+	padding: 0.7em 0.3em 0.38em 0.3em;
 }
 
-div.large-12-columns{ 
-		padding: 0.5em; 
+div.large-12-columns{
+		padding: 0.5em;
 
 }
 
-div.large-12-columns.hide { 
-	display: none; 
+div.large-12-columns.hide {
+	display: none;
 }
 
 .homepage-text{	/*background-color: #f1f0ee; */
@@ -163,12 +163,12 @@ div.large-12-columns.hide {
 	line-height: 3rem;
 	margin-top: 2.5rem;
 	margin-bottom: 2rem;
-	color: #0080C5;
+	color: #1e8689;
 }
 
 .subheader{
-	background-color: #fafafa; 
-	padding: 0.7em 0.3em 0.38em 0.3em; 
+	background-color: #fafafa;
+	padding: 0.7em 0.3em 0.38em 0.3em;
 	font-family: 'GothamBold', Helvetica, Sans-Serif;
 }
 
@@ -192,7 +192,7 @@ div.large-12-columns.hide {
 }
 
 #nav_bar {
-    height: 60px; 
+    height: 60px;
     width: 100%;
     padding-top: 20px;
     display: -webkit-flex;
@@ -210,11 +210,11 @@ div.large-12-columns.hide {
 }
 
 .sticky_helper {
-    margin-top: 60px;  
+    margin-top: 60px;
 }
 
 #nav_bar_list, #nav_bar_small_list {
-    text-indent: -1.25em;   
+    text-indent: -1.25em;
     list-style: none;
     padding: 0;
     list-style-type: none;
@@ -222,7 +222,7 @@ div.large-12-columns.hide {
 
 .nav_link_button {
     text-align: center;
-    padding: 20px;   
+    padding: 20px;
     margin: 10px;
     display: inline;
 }
@@ -249,7 +249,7 @@ div.large-12-columns.hide {
 }
 
 .nav_link {
-	color: #000; 
+	color: #000;
 	padding: 0.7em 0.3em 0.38em 0.3em;
 }
 
@@ -258,32 +258,32 @@ div.large-12-columns.hide {
 	/*background-color: #f1f0ee; */
 	color: #0080C5;
 	border-bottom: 2px solid #F8CF23;
-	padding: 0.3em; 
-	text-decoration: none; 
+	padding: 0.3em;
+	text-decoration: none;
 
 }
 
 .nav-section a.selected{
-	color: #000; 
-	background-color: #f1f0ee; 
-	font-weight: bold; 
-	padding: 0.7em 0.3em 0.38em 0.3em; 
-} 
+	color: #000;
+	background-color: #f1f0ee;
+	font-weight: bold;
+	padding: 0.7em 0.3em 0.38em 0.3em;
+}
 @media screen and (max-width: 730px) {
     .nav_link {
-        font-size: 15px;   
+        font-size: 15px;
     }
     #nav_bar {
-        display: none;   
+        display: none;
     }
     #nav_bar_small {
-        display: block;   
+        display: block;
     }
     #main_content {
-        display: none;   
+        display: none;
     }
     .sticky_helper {
-        margin-top: 60px;   
+        margin-top: 60px;
     }
 
     .medium-push-4 h1, .medium-push-4 p {
@@ -360,4 +360,3 @@ footer {
 	width: 100%;
 	height: 100%;
 }
-
